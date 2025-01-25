@@ -113,5 +113,5 @@ class UserDataProcessor:
 
 
 if __name__ == "__main__":
-    processor = DataProcessor()
+    processor = UserDataProcessor()
     processor.run()
